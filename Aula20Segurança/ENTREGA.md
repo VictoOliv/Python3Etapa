@@ -28,6 +28,7 @@ Antes dava para acessar o radar e o admin sem token, fazer login só com usernam
 ## Como rodar
 
 ```bash
+cd Aula20Segurança
 pip install -r requirements.txt
 python app.py
 ```

@@ -1,11 +1,9 @@
-# Atividade Aula 20 — TorreJWT insegura (MVC)
+# Python3Etapa
 
-O MVC já está montado. **A segurança não.** O aluno percorre os `TODO(segurança)` e fecha os furos.
+Repositório com atividades da 3ª etapa de Python.
 
-Enunciado: `Atividade.txt`  
-Gabarito do professor: `GABARITO.md` (a aula resolvida é a pasta pai).
+## Atividades
 
-```powershell
-cd flask/Aula20seguranca/Atividade
-python app.py
-```
+| Pasta | Descrição |
+|-------|-----------|
+| [Aula20Segurança](Aula20Segurança/) | TorreJWT — Flask-JWT-Extended e correção de vulnerabilidades |
