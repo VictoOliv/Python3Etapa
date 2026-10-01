@@ -9,4 +9,4 @@ Repositório com atividades da 3ª etapa de Python.
 | [Aula20Segurança](Aula20Segurança/) | TorreJWT — Flask-JWT-Extended e correção de vulnerabilidades |
 | [Tabela3](Tabela3/) | Análise da Tabela 3 do IBGE — áreas de formação na graduação (Mulheres no Censo 2022) |
 | [Tabela4](Tabela4/) | Análise da Tabela 4 — IDHM por Unidade da Federação (1991–2024) com matplotlib |
-| [PainelVendas](PainelVendas/) | Painel de análise de vendas (págs. 67–68) — pandas, matplotlib e seaborn |
+| [Apostila](Apostila/) | Painel de análise de vendas (págs. 67–68) — pandas, matplotlib e seaborn |
